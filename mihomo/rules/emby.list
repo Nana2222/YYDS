@@ -1,8 +1,9 @@
 # 规则名称: Emby
-# 规则统计: 179
+# 规则统计: 187
 
 DOMAIN,2pfdml.mobaiemby.site
 DOMAIN,cc.coemn.com
+DOMAIN,cdn1.nebula-media.org
 DOMAIN,cf-cdn1.nebula-media.org
 DOMAIN,cminf.sfcat.link
 DOMAIN,cuinf.sfcat.link
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,785858.xyz
 DOMAIN-SUFFIX,9191001.xyz
 DOMAIN-SUFFIX,91ai.de
 DOMAIN-SUFFIX,9521732.xyz
@@ -101,6 +103,7 @@ DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,embyserver.ga
 DOMAIN-SUFFIX,embytv.cf
+DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,freetz.top
 DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,ggtt.cf
@@ -135,6 +138,7 @@ DOMAIN-SUFFIX,nivod4.tv
 DOMAIN-SUFFIX,ntrrr.am.sb
 DOMAIN-SUFFIX,nvidia.rip
 DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,onyra.cc
 DOMAIN-SUFFIX,ouonet.org
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,pilipiliultra.com
@@ -158,6 +162,7 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,shuipo.lol
 DOMAIN-SUFFIX,speedx.one
 DOMAIN-SUFFIX,starcat.eu.org
+DOMAIN-SUFFIX,staryuki.com
 DOMAIN-SUFFIX,stream.ntrrr.top
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,studyfun.live
@@ -169,6 +174,9 @@ DOMAIN-SUFFIX,uuuoo.cc
 DOMAIN-SUFFIX,wiri.tk
 DOMAIN-SUFFIX,xiaoyi.one
 DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,younoyes.com
+DOMAIN-SUFFIX,yunti.online
+DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,zi0.icu
 DOMAIN-SUFFIX,zox.show
 IP-CIDR,152.53.67.239/32,no-resolve
